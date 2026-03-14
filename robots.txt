@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /site-export
+Sitemap: https://videotaxi.co.nz/sitemap.xml
